@@ -1,5 +1,3 @@
 ini adalah fail yang pertama
 
-ada tambahan maklumat
-
-lagi maklumat tambahan
+new line main
